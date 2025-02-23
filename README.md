@@ -9,9 +9,9 @@ $ npm create vite@latest . --template vue
 # プロジェクトの依存パッケージをインストール
 $ npm install
 
-# vueを実行
-$ npm run dev
-
 # MarkdownをHTMLに変換するライブラリ
 $ npm install marked
+
+# vueを実行
+$ npm run dev
 ```
